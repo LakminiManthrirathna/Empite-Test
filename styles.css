@@ -1,0 +1,79 @@
+.addBackgroundImage1 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 98vh;
+  background-image: url("/img/1.PNG");
+}
+
+.addBackgroundImage2 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 98vh;
+  background-image: url("/img/6.PNG");
+}
+
+.addImage3 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 98vh;
+  background-image: url("/img/7.PNG");
+}
+
+.addImage4 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 98vh;
+  background-image: url("/img/15.PNG");
+}
+
+.addImage5 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 98vh;
+  background-image: url("/img/16.PNG");
+  height: 59vh;
+}
+
+.Title {
+  font-family: 'Bodoni Moda', serif;
+  font-weight: 550;
+  font-size: 3.2rem;
+  line-height: 120%;
+}
+
+.TitleWhite {
+  color: white;
+}
+
+.icon {
+  width: 5rem;
+  height: 5rem;
+}
+
+.blackBackground {
+  background-color: black;
+}
+
+.mainButton {
+  color: white;
+  background-color: #050505;
+  width: 10rem;
+  height: 3rem;
+  border-style: hidden;
+  border-radius: 5px;
+}
+
+div ul li {
+  font-weight: bold;
+  padding-left: 2rem;
+}
+
+div ul li a {
+  color: #050505;
+}
+
+div ul li a:hover {
+  color: white;
+  background-color: #050505;
+}
+/*# sourceMappingURL=styles.css.map */
